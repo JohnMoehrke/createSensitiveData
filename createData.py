@@ -1,4 +1,4 @@
-# Given the ValueSet-SlsSensitiveSDV.json as input of sensitive code values, create N FHIR Observation resources with a random sensitive code value, a random date between 2000-01-01 and 2020-12-31, patient reference to Patient/1, and a valueString of "sensitive".
+# Given the ValueSet-SlsSensitiveSDV.json as input of sensitive code values, create N FHIR Observation resources with a random sensitive code value, category of exam, a random date between 2000-01-01 and 2020-12-31, patient reference to Patient/1, and a valueString of "sensitive".
 # The output is a FHIR Bundle with N Observation resources.
 # Usage: python createData.py N
 # N is the number of Observation resources to create.
@@ -33,6 +33,12 @@ for i in range(N):
         "resource": {
             "resourceType": "Observation",
             "status": "final",
+            "category": [{
+                "coding": [{
+                    "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                    "code": "exam"
+                }]  
+            }],
             "code": {
                 "coding": [{
                     "system": "http://loinc.org",
