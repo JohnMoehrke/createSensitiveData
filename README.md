@@ -15,4 +15,5 @@ Thus, given you have some normal test data, like from Synthia. Create an appropr
 
 - randomly select a code from the sensitve set. This would be more useful when the N value is smaller than the size of the valueSet expansion.
 - parameter for Patient id
+- extract the valueSet expansion from an expansion.json Bundle
 
