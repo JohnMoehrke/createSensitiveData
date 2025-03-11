@@ -1,0 +1,246 @@
+{
+  "resourceType": "ValueSet",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p class=\"res-header-id\"><b>ValueSet </b></p><div style=\"border: black 1px dotted; background-color: #EEEEEE; padding: 8px; margin-bottom: 8px\"><p>Expansion based on:</p><ul><li><a href=\"https://vsac.nlm.nih.gov/valueset/2.16.840.1.113762.1.4.1142.49/expansion\">valueset C2S Sexuality and reproductive health information sensitivity v20160909 (ValueSet)</a></li><li><a href=\"https://vsac.nlm.nih.gov/valueset/2.16.840.1.113762.1.4.1142.50/expansion\">valueset C2S Sexuality and reproductive health information sensitivity v20160909 (ValueSet)</a></li></ul></div><p>This value set contains 30 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-097.9\"> </a>\u00a0\u00a0097.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Syphilis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-131.9\"> </a>\u00a0\u00a0131.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Trichomoniasis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-259\"> </a>\u00a0\u00a0259</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other endocrine disorders</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-259.1\"> </a>\u00a0\u00a0259.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Precocious sexual development and puberty, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-292.89\"> </a>\u00a0\u00a0292.89</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified drug-induced mental disorders</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-302.6\"> </a>\u00a0\u00a0302.6</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Gender identity disorder in children</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-302.7\"> </a>\u00a0\u00a0302.7</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Psychosexual dysfunction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-302.71\"> </a>\u00a0\u00a0302.71</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Hypoactive sexual desire disorder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-302.72\"> </a>\u00a0\u00a0302.72</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Psychosexual dysfunction with inhibited sexual excitement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-302.75\"> </a>\u00a0\u00a0302.75</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Premature ejaculation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-302.85\"> </a>\u00a0\u00a0302.85</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Gender identity disorder in adolescents or adults</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-302.9\"> </a>\u00a0\u00a0302.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified psychosexual disorder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-607.84\"> </a>\u00a0\u00a0607.84</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Impotence of organic origin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-608.89\"> </a>\u00a0\u00a0608.89</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified disorders of male genital organs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-625\"> </a>\u00a0\u00a0625</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Pain and other symptoms associated with female genital organs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-625.8\"> </a>\u00a0\u00a0625.8</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified symptoms associated with female genital organs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-752.7\"> </a>\u00a0\u00a0752.7</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Indeterminate sex and pseudohermaphroditism</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-78.1\"> </a>\u00a0\u00a078.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Application of external fixator device</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-94.2\"> </a>\u00a0\u00a094.2</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Psychiatric somatotherapy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-98.2\"> </a>\u00a0\u00a098.2</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Removal of other foreign body without incision</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-99.41\"> </a>\u00a0\u00a099.41</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Administration of poliomyelitis vaccine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-995.53\"> </a>\u00a0\u00a0995.53</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Child sexual abuse</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-995.83\"> </a>\u00a0\u00a0995.83</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Adult sexual abuse</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-V61.12\"> </a>\u00a0\u00a0V61.12</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Counseling for perpetrator of spousal and partner abuse</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-V61.21\"> </a>\u00a0\u00a0V61.21</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Counseling for victim of child abuse</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://hl7.org/fhir/sid/icd-9-cm-V62.83\"> </a>\u00a0\u00a0V62.83</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Counseling for perpetrator of physical/sexual abuse</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://www.nlm.nih.gov/research/umls/rxnorm-190465\"> </a>\u00a0\u00a0190465</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>Viagra</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://www.nlm.nih.gov/research/umls/rxnorm-48877\"> </a>\u00a0\u00a048877</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>Depo-testosterone</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://www.nlm.nih.gov/research/umls/rxnorm-753481\"> </a>\u00a0\u00a0753481</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>{21 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Sprintec 28 Day]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"x-http://www.nlm.nih.gov/research/umls/rxnorm-835827\"> </a>\u00a0\u00a0835827</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>testosterone cypionate</td></tr></table></div>"
+  },
+  "url": "https://profiles.ihe.net/ITI/PCF/ValueSet/SlsSensitiveSDV",
+  "version": "1.1.1-current",
+  "name": "SlsSensitiveSDV",
+  "title": "clinical codes that indicate SDV",
+  "status": "active",
+  "experimental": false,
+  "date": "2024-06-04T09:48:46-05:00",
+  "jurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "http://unstats.un.org/unsd/methods/m49/m49.htm",
+          "code": "001"
+        }
+      ]
+    }
+  ],
+  "expansion": {
+    "identifier": "urn:uuid:edd49731-bd54-404f-a8ee-a0eb34349592",
+    "timestamp": "2024-06-04T14:50:35.398Z",
+    "total": 30,
+    "offset": 0,
+    "parameter": [
+      {
+        "name": "limitedExpansion",
+        "valueBoolean": true
+      },
+      {
+        "name": "excludeNested",
+        "valueBoolean": false
+      },
+      {
+        "name": "offset",
+        "valueInteger": 0
+      },
+      {
+        "name": "count",
+        "valueInteger": 1000
+      },
+      {
+        "name": "used-valueset",
+        "valueUri": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1142.49|20160909"
+      },
+      {
+        "name": "version",
+        "valueUri": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1142.49|20160909"
+      },
+      {
+        "name": "used-valueset",
+        "valueUri": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1142.50|20160909"
+      },
+      {
+        "name": "version",
+        "valueUri": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1142.50|20160909"
+      }
+    ],
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "097.9",
+        "display": "Syphilis, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "131.9",
+        "display": "Trichomoniasis, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "259",
+        "display": "Other endocrine disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "259.1",
+        "display": "Precocious sexual development and puberty, not elsewhere classified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "292.89",
+        "display": "Other specified drug-induced mental disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "302.6",
+        "display": "Gender identity disorder in children"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "302.7",
+        "display": "Psychosexual dysfunction"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "302.71",
+        "display": "Hypoactive sexual desire disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "302.72",
+        "display": "Psychosexual dysfunction with inhibited sexual excitement"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "302.75",
+        "display": "Premature ejaculation"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "302.85",
+        "display": "Gender identity disorder in adolescents or adults"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "302.9",
+        "display": "Unspecified psychosexual disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "607.84",
+        "display": "Impotence of organic origin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "608.89",
+        "display": "Other specified disorders of male genital organs"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "625",
+        "display": "Pain and other symptoms associated with female genital organs"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "625.8",
+        "display": "Other specified symptoms associated with female genital organs"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "752.7",
+        "display": "Indeterminate sex and pseudohermaphroditism"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "78.1",
+        "display": "Application of external fixator device"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "94.2",
+        "display": "Psychiatric somatotherapy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "98.2",
+        "display": "Removal of other foreign body without incision"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "99.41",
+        "display": "Administration of poliomyelitis vaccine"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "995.53",
+        "display": "Child sexual abuse"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "995.83",
+        "display": "Adult sexual abuse"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "V61.12",
+        "display": "Counseling for perpetrator of spousal and partner abuse"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "V61.21",
+        "display": "Counseling for victim of child abuse"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2013",
+        "code": "V62.83",
+        "display": "Counseling for perpetrator of physical/sexual abuse"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "09062022",
+        "code": "190465",
+        "display": "Viagra"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "09062022",
+        "code": "48877",
+        "display": "Depo-testosterone"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "09062022",
+        "code": "753481",
+        "display": "{21 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Sprintec 28 Day]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "09062022",
+        "code": "835827",
+        "display": "testosterone cypionate"
+      }
+    ]
+  }
+}
