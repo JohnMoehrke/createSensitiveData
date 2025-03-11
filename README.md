@@ -10,3 +10,9 @@ This script is very simple, and uses a hardcoded patient "Patient/1"
 > python createData.py 10 > out.json
 
 Thus, given you have some normal test data, like from Synthia. Create an appropriate number of sensitive data with this script. Post both to your FHIR server.
+
+## improvements
+
+- randomly select a code from the sensitve set. This would be more useful when the N value is smaller than the size of the valueSet expansion.
+- parameter for Patient id
+
